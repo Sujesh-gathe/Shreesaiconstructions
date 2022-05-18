@@ -7269,7 +7269,10 @@ button.bg-dark:focus {
 .w-100 {
   width: 100% !important;
 }
-
+.w-logo{
+  width:15%;
+  border-radius: 50%;
+}
 .w-auto {
   width: auto !important;
 }
